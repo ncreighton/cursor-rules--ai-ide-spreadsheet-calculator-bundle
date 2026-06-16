@@ -1,2 +1,25 @@
-# cursor-rules--ai-ide-spreadsheet-calculator-bundle
-10 pre-built calculators, trackers, and dashboards for common Cursor Rules &amp; AI IDE calculations. Instant spreadsheet tools without building from scratch.
+# Cursor Rules & AI IDE Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM5kDaDd7EocVWfQ8d0q2n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM5kDaDd7EocVWfQ8d0q2n)
+
